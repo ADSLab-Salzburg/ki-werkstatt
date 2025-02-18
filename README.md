@@ -1,7 +1,3 @@
-Hier ist ein Beispiel für ein README für dein GitHub-Repository:
-
----
-
 # Machine Learning Workshops: Titanic & Iris Datasets
 
 Willkommen im Repository für den **Machine Learning Workshop**! In diesem Repository findest du zwei Jupyter-Notebooks, die für Workshops mit **18-jährigen Teilnehmern** entwickelt wurden. Die Teilnehmer lernen die Grundlagen des maschinellen Lernens anhand der **Titanic**- und **Iris**-Daten und verwenden einfache **Decision Tree Classifier**.
